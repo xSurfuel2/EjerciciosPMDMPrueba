@@ -4,6 +4,6 @@ public class AdivinaNumero
 {
     public void AdivinaAdivina ()
     {
-    La mitica
+
     }
 }
